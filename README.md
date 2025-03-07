@@ -10,4 +10,4 @@ The two sensors provide different output formats: one sensor outputs data in CSV
 
 Output:
 
-The output should consist of pairs of IDs, where one ID is from the first sensor, and the second ID is from the second sensor.
+The output should consist of pairs of IDs, where one ID is from the first sensor, and the second ID is from the second sensor. You are free to solve the challenge using the language of your choice.
