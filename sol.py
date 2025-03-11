@@ -36,4 +36,5 @@ def main():
     with open("Output.json","w") as file:
         json.dump(resultdict, file)
 
-main()
+if __name__ == "__main__":
+    main()
